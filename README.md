@@ -1,1 +1,2 @@
 # Java-Programming-Arrays-Lists-and-Structured-Data
+A course of two specializations "Java Programming and Software Engineering Fundamentals" & "Object Oriented Programming in Java". Certificate: https://coursera.org/share/a1fcd7171006ab6d6c9068b31ee16a90

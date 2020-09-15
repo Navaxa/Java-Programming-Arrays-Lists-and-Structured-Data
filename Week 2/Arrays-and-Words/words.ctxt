@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=words
+comment1.params=
+comment1.target=words()
+comment2.params=
+comment2.target=int\ getCount()
+comment3.params=source
+comment3.target=void\ readWords(java.lang.String)
+numComments=4
